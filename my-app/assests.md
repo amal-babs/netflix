@@ -6,8 +6,16 @@ banner='https://wallpaperaccess.com/full/2703652.png'
 
 card = 'https://images.squarespace-cdn.com/content/v1/59232e19579fb3fa44a693c2/1589212826160-UM9PEPGOS3OJPR0FJ81X/ke17ZwdGBToddI8pDm48kHZUaJeKzodyg_sXWBMxNTdZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxCBUU7B-_SAG1kGvCwYgmUjQXvn8_OJjtz3K1llMQBa1MPsuSXPSY3X-tgg78M7lI/SKOyqL1qFLIhbK6ho2lB-696x975.jpg?format=1500w'
 
+
+imageUrl="https://image.tmdb.org/t/p/original"
+
+
 api="https://api.themoviedb.org/3/movie/11?api_key="41d49b456b5955d874f34e01629e5dfb"
 
 popular="https://api.themoviedb.org/3/movie/popular?api_key=41d49b456b5955d874f34e01629e5dfb"
 
 toprated="https://api.themoviedb.org/3/movie/top_rated?api_key=41d49b456b5955d874f34e01629e5dfb"
+
+originals ='https://api.themoviedb.org/3/discover/tv?api_key={API_KEY_HERE}&with_networks=213'
+
+action ='https://api.themoviedb.org/3/discover/movie?api_key={API_KEY_HERE}&with_genres=28'
